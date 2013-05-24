@@ -1,6 +1,9 @@
 # robins-mask.js
 Yet another jQuery mask input plugin.
 
+![logo]
+[logo]: https://raw.github.com/keymholio/robins-mask/master/img/robins-mask.png
+
 ## Description
 This unobtrusive plugin adds a mask to the field so it is easier for the user to type in values. By default there are
 three types of masks - numeric, alpha and alphanumeric.  You can add an additional type as well. I'll show you an example below. This plugin handles fixed width masks (SSN, phone, etc.) and also numeric masks (which is basically dynamically adding the comma between)
